@@ -37,8 +37,8 @@ data/
 
 ### 4. Dataset Download
 The complete PUOD-3K dataset exceeds 100MB, which cannot be fully stored in GitHub. We provide the full compressed package via cloud disk for download:
-> Cloud disk download link: [[https://pan.baidu.com/s/1XKKcYl4TA87zKa2DSuZ0qA]]
-> Extraction code: [drm7]
+> Cloud disk download link: [[https://pan.baidu.com/s/1iGDUp66nR5KUTWnh1uOwdw]]
+> Extraction code: [c8in]
 
 #### Usage Instructions
 1. Download the compressed file from the above link;
