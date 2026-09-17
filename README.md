@@ -76,6 +76,8 @@ If you utilize the PUOD-3K dataset or ConDeNet model in your research, please ci
   howpublished={\url{https://github.com/kakakabula/ConDeNet}}
 }
 ```
+## Reference link
+Wang, X., Cao, Y., Liang, X., Li, S., & Li, S. Context-detail dual-path fusion network for pavement uneven object detection via scale-adaptive attention and dynamic channel allocation. Engineering Applications of Artificial Intelligence, 2026, 182(2), 115995. https://doi.org/10.1016/j.engappai.2026.115995
 
 ## Acknowledgement
 This work is supported by the National Natural Science Foundation of China (52572481, U22A20246), the Natural Science Foundation of Hebei Province (F2025210053, F2024210051), Science and Technology Project of Hebei Education Department (HJYB202516, BJK2024128).
